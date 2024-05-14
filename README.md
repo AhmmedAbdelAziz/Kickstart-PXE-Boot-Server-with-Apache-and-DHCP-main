@@ -1,1 +1,0 @@
-# Kickstart-PXE-Boot-Server-with-Apache-and-DHCP-main
